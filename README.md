@@ -1,0 +1,3 @@
+# Earthquake prediction
+
+competetion link 
